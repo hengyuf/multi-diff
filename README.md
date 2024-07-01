@@ -25,6 +25,4 @@ Go to the experiment of interest (folder segmentation_diffusion or text_diffusio
 
 
 ## Acknowledgements
-The Robert Bosch GmbH is acknowledged for financial support.# multi-diff
-# multi-diff
-# multi-diff
+The Robert Bosch GmbH is acknowledged for financial support.
